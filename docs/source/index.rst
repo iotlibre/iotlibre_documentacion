@@ -12,6 +12,7 @@ Documentacion Iot Libre
 
    descripcion
    arquitectura
+   rackiot
    servidor_ioe
    ecohub
    ecoradio
